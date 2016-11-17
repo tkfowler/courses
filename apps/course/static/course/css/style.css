@@ -1,0 +1,15 @@
+body{
+  margin: 20px 50px;
+}
+
+#top{
+  width:650px;
+}
+
+#button{
+  float: right;
+}
+
+.delete{
+  display: inline-block;
+}
